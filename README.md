@@ -18,7 +18,6 @@ You can click the Preview link to take a look at your changes.
 - 💞️ I’m looking to collaborate on ... development 
 - 📫 How to reach me ... ahmadjabra02@gmail.com
 
-<iframe src="https://drive.google.com/file/d/1jwDumwbetmIcVnrCjfW0pQSSDWPjtP78/preview" width="640" height="480" allow="autoplay"></iframe>
 <br />
 
 <h2 align="center">Quick Overview 📈</h2>
