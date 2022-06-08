@@ -4,7 +4,7 @@ ahmadyacoub/ahmadyacoub is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 -----
-![header][![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ahmadyacoub/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
 <!--
 **ahmadyacoub/ahmadyacoub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
