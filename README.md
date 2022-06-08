@@ -28,7 +28,7 @@ You can click the Preview link to take a look at your changes.
 </p>
 
 <p align = "center">
-  <img src = [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ahmadyacoub/langs?time_range=one_year&theme=dark)](https://githubtrends.io) alt = "ahmadyacoub's Contribution" width = 400 >
+  <img src = [![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ahmadyacoub/langs?time_range=one_year&theme=dark)](https://githubtrends.io) width = 400 >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ahmadyacoub&count_private=true&theme=dracula&hide_border=true" alt = "ahmadyacoub's Rating" width = 400 >
 
 </p>
