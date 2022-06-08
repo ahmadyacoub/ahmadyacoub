@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
   <p align = "center">
  
 </p>
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/ahmadyacoub/langs?time_range=one_year&theme=dark)](https://githubtrends.io)
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=ahmadyacoub&count_private=true&theme=dracula&hide_border=true" alt = "ahmadyacoub's Contribution" width = 400 >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=ahmadyacoub&count_private=true&theme=dracula&hide_border=true" alt = "ahmadyacoub's Rating" width = 400 >
