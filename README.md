@@ -11,6 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 -->
 <h1>About Me 📌</h1>
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 
 - 👋 Hi, I’m @ahmadyacoub
 - 👀 I’m interested in ... coding
