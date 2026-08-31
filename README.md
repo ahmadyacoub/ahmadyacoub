@@ -1,47 +1,38 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Ahmad%20Ismail&desc=Computer%20Systems%20%26%20Network%20Engineer&fontSize=60&descSize=20)
+# Ahmad Ismail
 
-## About Me 📌
-
-Computer Systems Engineering graduate focused on backend development, networking infrastructure, and embedded IoT systems. 
-
-- 🎓 **Degree:** B.S. in Computer Systems Engineering
-- 💻 **Core Focus:** Spring Boot, RESTful APIs, IoT Hardware, Network Security
-- 🌱 **Learning:** Enterprise Network Infrastructure & Cloud Services
-- 📫 **Contact:** ahmadjabra02@gmail.com
+**Computer Systems & Network Engineer** | Ramallah, Palestine  
+[LinkedIn](https://www.linkedin.com/in/ahmad-jabra/) • [Email](mailto:ahmadjabra02@gmail.com) • [GitHub](#)
 
 ---
 
-## Tech Stack 🛠️
+### 👨‍💻 About Me
+Computer Systems Engineering graduate specializing in backend software development, enterprise networking infrastructure, and embedded IoT systems. 
 
-**Languages & Frameworks**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-
-**Networking & Hardware**
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![Fortinet](https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+- **Focus:** Building scalable REST APIs, configuring secure network architectures, and hardware-software integration.
+- **Current Interest:** Cloud Infrastructure, Network Security (Fortinet/Cisco), and Distributed Systems.
 
 ---
 
-## GitHub Analytics 📈
+### 🛠️ Technical Skills
 
-![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadyacoub&show_icons=true&theme=dracula&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadyacoub&layout=compact&theme=dracula&hide_border=true&count_private=true)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmadyacoub&theme=dracula&hide_border=true&count_private=true)
+| Domain | Technologies & Tools |
+| :--- | :--- |
+| **Backend & Languages** | Java, Spring Boot, Python, C, MySQL, RESTful APIs |
+| **Networking & Security** | Cisco Packet Tracer, FortiGate Firewalls, VLANs, GPON ONT, Active Directory |
+| **Hardware & IoT** | ESP32, Heltec LoRa, BLE, Microcontrollers |
+| **DevOps & Server** | Linux (Ubuntu Server), Docker, WireGuard, Pi-hole, Git |
 
 ---
 
-## Let's Connect 🤝
+### 🚀 Key Projects
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadjabra02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-jabra/)
+- **Hybrid Indoor Localization System**  
+  *Integrated LoRa, Wi-Fi, and BLE technologies to create a multi-protocol indoor positioning framework.*
+- **Library Management System**  
+  *Desktop application built with Python, PyQt, and MySQL for multi-user inventory and borrowing control.*
 
-![Visitor Count](https://komarev.com/ghpvc/?username=ahmadyacoub&color=blueviolet&style=flat-square)
+---
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
+### 📫 Let's Connect
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmadjabra02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-jabra/)
