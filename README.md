@@ -7,7 +7,7 @@ Computer Systems Engineering graduate focused on backend development, networking
 - 🎓 **Degree:** B.S. in Computer Systems Engineering
 - 💻 **Core Focus:** Spring Boot, RESTful APIs, IoT Hardware, Network Security
 - 🌱 **Learning:** Enterprise Network Infrastructure & Cloud Services
-- 📫 **Contact:** [ahmadjabra02@gmail.com](mailto:ahmadjabra02@gmail.com)
+- 📫 **Contact:** ahmadjabra02@gmail.com
 
 ---
 
@@ -27,28 +27,21 @@ Computer Systems Engineering graduate focused on backend development, networking
 
 ---
 
-<h2 align="center">GitHub Analytics 📈</h2>
+## GitHub Analytics 📈
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmadyacoub&show_icons=true&theme=dracula&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ahmadyacoub&layout=compact&theme=dracula&hide_border=true&langs_count=8&count_private=true" width="48%" alt="Top Languages" />
-</p>
+![Ahmad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmadyacoub&show_icons=true&theme=dracula&hide_border=true&count_private=true)
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ahmadyacoub&theme=dracula&hide_border=true&count_private=true" width="97%" alt="Streak Stats" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmadyacoub&layout=compact&theme=dracula&hide_border=true&count_private=true)
+
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=ahmadyacoub&theme=dracula&hide_border=true&count_private=true)
 
 ---
 
-<h2 align="center">Let's Connect 🤝</h2>
+## Let's Connect 🤝
 
-<p align="center">
-  <a href="mailto:ahmadjabra02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" /></a>
-  <a href="https://www.linkedin.com/in/ahmad-jabra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" /></a>
-</p>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmadjabra02@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-jabra/)
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/ahmadyacoub/count.svg" alt="Visitor Count" />
-</p>
+![Visitor Count](https://komarev.com/ghpvc/?username=ahmadyacoub&color=blueviolet&style=flat-square)
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
