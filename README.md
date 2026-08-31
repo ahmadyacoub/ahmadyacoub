@@ -1,38 +1,13 @@
-# Ahmad Ismail
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,30&height=220&section=header&text=Ahmad%20Ismail&desc=Computer%20Systems%20%26%20Network%20Engineer&fontSize=55&descSize=20&fontAlignY=35)
 
-**Computer Systems & Network Engineer** | Ramallah, Palestine  
-[LinkedIn](https://www.linkedin.com/in/ahmad-jabra/) • [Email](mailto:ahmadjabra02@gmail.com) • [GitHub](#)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ahmad-jabra/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ahmadjabra02@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
 
----
-
-### 👨‍💻 About Me
-Computer Systems Engineering graduate specializing in backend software development, enterprise networking infrastructure, and embedded IoT systems. 
-
-- **Focus:** Building scalable REST APIs, configuring secure network architectures, and hardware-software integration.
-- **Current Interest:** Cloud Infrastructure, Network Security (Fortinet/Cisco), and Distributed Systems.
-
----
-
-### 🛠️ Technical Skills
-
-| Domain | Technologies & Tools |
-| :--- | :--- |
-| **Backend & Languages** | Java, Spring Boot, Python, C, MySQL, RESTful APIs |
-| **Networking & Security** | Cisco Packet Tracer, FortiGate Firewalls, VLANs, GPON ONT, Active Directory |
-| **Hardware & IoT** | ESP32, Heltec LoRa, BLE, Microcontrollers |
-| **DevOps & Server** | Linux (Ubuntu Server), Docker, WireGuard, Pi-hole, Git |
-
----
-
-### 🚀 Key Projects
-
-- **Hybrid Indoor Localization System**  
-  *Integrated LoRa, Wi-Fi, and BLE technologies to create a multi-protocol indoor positioning framework.*
-- **Library Management System**  
-  *Desktop application built with Python, PyQt, and MySQL for multi-user inventory and borrowing control.*
-
----
-
-### 📫 Let's Connect
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ahmadjabra02@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmad-jabra/)
+```bash
+┌──[ ahmed@engineer-terminal ] - [~]
+└─$ cat overview.txt
+• Profile : Computer Systems Engineering Graduate
+• Focus   : Backend Development, Network Security & Embedded Systems
+• Stack   : Java / Spring Boot / Python / Cisco / Fortinet / ESP32
