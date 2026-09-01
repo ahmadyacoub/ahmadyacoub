@@ -1,5 +1,5 @@
-```python
-content = """<div align="center">
+```markdown
+<div align="center">
   <h1>Ahmad Ismail</h1>
   <h3>Computer Systems & Network Engineer</h3>
 
@@ -33,11 +33,11 @@ content = """<div align="center">
 
 ## 🛠️ Tech & Tools Matrix
 
-**Backend & Programming**
+### 💻 **Backend & Programming**
 
-**Network Security & Infrastructure**
+### 🌐 **Network Security & Infrastructure**
 
-**Hardware & Embedded IoT**
+### 🔌 **Hardware & Embedded IoT**
 
 ---
 
@@ -59,4 +59,3 @@ content = """<div align="center">
 ---
 
 ## 🤝 Let's Connect
-
